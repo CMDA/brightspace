@@ -2,7 +2,7 @@
 
 Welkom bij CMDLO!
 
-De website <cmdlo.mijnhva.nl> is een aangepaste brightspace course in de brightspace omgeving van de Hogeschool van Amsterdam. De bestanden voor deze site worden hier op GitHub gehost, GitHub is een platform voor samenwerking aan open source webprojecten. De ontwikkelversie van cmdlo is te vinden op <https://cmda.github.io/brightspace/> en is een directe weergave van de bestanden in dit project. Als alles in de ontwikkelversie goed staat wordt de website met de hand overgezet naar de brightspace omgeving.
+De website <https://cmdlo.mijnhva.nl> is een aangepaste brightspace course in de brightspace omgeving van de Hogeschool van Amsterdam. De bestanden voor deze site worden hier op GitHub gehost, GitHub is een platform voor samenwerking aan open source webprojecten. De ontwikkelversie van cmdlo is te vinden op <https://cmda.github.io/brightspace/> en is een directe weergave van de bestanden in dit project. Als alles in de ontwikkelversie goed staat wordt de website met de hand overgezet naar de brightspace omgeving.
 
 Je kunt zelf wijzigingen doorvoeren als je ingelogd bent op GitHub en bent uitgenodigd om aan de repository brightspace bij te dragen, gelukkig staan veel docenten in het CMDA team al in onze organisation <https://github.com/CMDA>. Deze plek is ingericht om wijzigingen door te voeren, typefouten te corrigeren, een alinea te verwijderen etc.
 
