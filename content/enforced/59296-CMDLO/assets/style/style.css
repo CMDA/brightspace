@@ -31,6 +31,10 @@
     margin-bottom: 1em;
     font-style: normal;
   }
+  ol ul li time {
+    display: block;
+    font-style: italic;
+  }
   time:after {
     content: '|';
     padding: 0 0.25em;
