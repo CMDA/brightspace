@@ -34,7 +34,7 @@
   ol ul li time {
     display: block;
     font-style: italic;
-    font-style: 0.85em;
+    font-size: 0.85em;
   }
   time:after {
     content: '|';
