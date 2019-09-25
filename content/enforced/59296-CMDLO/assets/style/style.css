@@ -7,7 +7,7 @@
     background-color: #fefefe;
     display: flex;
     flex-direction: column;
-    margin: 1rem 2vw;
+    margin: 1rem 2.25vw;
     font-weight: 300;
     font-size: calc(1em + 6 * ((100vw - 320px) / 680));
   }
@@ -383,7 +383,7 @@ a.highlight:hover {
     grid-template-columns: 15em 6fr;
     grid-template-rows: auto 5em;
     overflow-x: hidden;
-    width: 72.5rem;
+    width: 73.25rem;
     font-size: 1.25em;
   }
 
@@ -410,7 +410,6 @@ a.highlight:hover {
   }
   body > nav {
     padding-left: 0;
-    margin-left: -0.3em; /* 😱, this is sketchy aligning our moodle page with the sandbox */
     align-self: start;
   }
 
