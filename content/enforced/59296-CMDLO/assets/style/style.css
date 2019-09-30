@@ -134,9 +134,23 @@
     height: 2.25em;
     line-height: 2.25em;
   }
+  main section#news {
+    position: relative;
+    padding-bottom: 3em;
+  }
   main section#news h2 {
     font-size: 1.1em;
     font-weight: bold;
+  }
+  main section#news a.read-more {
+    bottom: 0;
+    position: absolute;
+    text-align: left;
+    padding-left: 0;
+    width: auto;
+  }
+  main section#news a.read-more:before {
+    display: none;
   }
 
   main h3 {
