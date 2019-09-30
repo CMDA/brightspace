@@ -13,7 +13,7 @@ Als je zelf geen wijziging wilt doorvoeren maar een vraag wilt stellen dan kan d
 * Klik op de groene knop rechtsboven 'New issue'
 * Beschrijf je vraag of probleem en druk op de knop onderaan 'Submit new issue'
 
-Het ontwikkelteam pakt de vraag op en gaat er mee aan de slag.
+Het ontwikkelteam pakt de vraag op en gaat er mee aan de slag...
 
 ## Account aanmaken
 
