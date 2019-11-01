@@ -303,6 +303,13 @@
   }
   table tbody tr a.inline {
     min-height: auto;
+    padding: 0 0;
+    display: inline;
+    color: #006fbf;
+    text-decoration: underline;
+  }
+  table tbody tr a.inline:hover {
+    background: #ccc;
   }
   table span {
     display: block;
