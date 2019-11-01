@@ -1,21 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@rouws
-4
-01CMDA/brightspace
- Code Issues 1 Pull requests 0 Projects 1 Security Insights
-brightspace/content/enforced/59296-CMDLO/assets/style/style.css
-@joostf joostf read more news link
-4d62928 on 30 Sep
-@joostf@ju5tu5
-571 lines (534 sloc)  10 KB
-
 /******** SINGLE COLUMN ********/
 @media (min-width: 0) {
   /**** GENERIC ****/
@@ -589,15 +571,3 @@ input[id='clusterKey']:checked + label h2 {
 input:focus + label h5 {
   box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.5);
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
